@@ -1,17 +1,18 @@
-### Hello, I'm Sodiq, welcome to my GitHub. 🌱
+### Hello, I'm Sodiq, welcome to my GitHub. 
 
 <hr />
 
 <a href="https://www.linkedin.com/in/sodiq-yekeen-337556a5/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="36px" src="https://user-images.githubusercontent.com/77198295/166142052-515d2705-893f-4bfa-8f1d-1a49882b7193.gif"  />
+
 </a>
 <a href="mailto:me@sodiqyekeen.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
+  <img align="left" width="36px" src="https://user-images.githubusercontent.com/77198295/166142174-5f115e35-5c81-4ad2-b4fa-89437f95dd73.gif" />
 </a>
-
 <br/>
 
-### About Me 🚀
+
+### About Me 
 💻 Highly resourceful, flexible, Machine Learning/AI enthusiast and innovative .Net developer and a good problem solver, with a proven track record of success in developing and implementing and maintaining efficient and scalable software solutions.Passionate about learning new technologies and creating solutions that accelerates the efficiency and effectiveness of organization success. </br> </br>
 👨🏼‍💻 I not only build software for a living, I also teach others to do the same. </br></br>
 💬 I am a person you can connect with on any level. You're highly welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
