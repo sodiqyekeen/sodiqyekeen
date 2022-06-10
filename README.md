@@ -3,11 +3,11 @@
 <hr />
 
 <a href="https://www.linkedin.com/in/sodiq-yekeen-337556a5/">
-  <img align="left" width="36px" src="https://user-images.githubusercontent.com/77198295/166142052-515d2705-893f-4bfa-8f1d-1a49882b7193.gif"  />
+  <img align="left" width="36px" height="36px" src="https://user-images.githubusercontent.com/77198295/166142052-515d2705-893f-4bfa-8f1d-1a49882b7193.gif"  />
 
 </a>
 <a href="mailto:me@sodiqyekeen.com">
-  <img align="left" width="36px" src="https://user-images.githubusercontent.com/77198295/166142174-5f115e35-5c81-4ad2-b4fa-89437f95dd73.gif" />
+  <img align="left" width="36px" height="36px" src="https://user-images.githubusercontent.com/77198295/166142174-5f115e35-5c81-4ad2-b4fa-89437f95dd73.gif" />
 </a>
 <br/>
 
