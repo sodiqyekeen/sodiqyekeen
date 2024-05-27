@@ -13,8 +13,8 @@
 
 
 ### About Me 
-💻 Full-Stack Software Engineer with 4+ years of experience in developing and implementing web-based solutions. Having a proven track record of success in improving the software engineering process and creating solutions that drive organizational efficiency and effectiveness. Proficient in backend development, Blazor, and Azure DevOps engineering. Excellent problem-solving skills and strong interpersonal and communication abilities. Passionate about learning new technologies, driving innovation, and sharing knowledge with others, including mentoring and teaching students and other developers. </br> </br>
-👨🏼‍💻 I not only build software for a living, I also teach others to do the same. </br></br>
+💻 A seasoned Software Developer with over half a decade of experience building and managing cutting-edge software solutions. Committed to driving excellence in software engineering and delivering innovative solutions that enhance organisational efficiency and effectiveness. Proficient in Web API, C#, .NET Core, and Blazor, underpinned by a solid foundation in SQL Server and database management and Azure DevOps. An effective problem solver with exceptional interpersonal and communication skills. Enthusiastic about continuous learning, sharing knowledge, and mentoring others, fostering a collaborative and innovative development environment. </br> </br>
+👨🏼‍💻 I not only build software for a living, but I also teach others to do the same. </br></br>
 💬 I am a person you can connect with on any level. You're highly welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>Over time, the world has branded and rebranded itself. Development now cuts across all of life. Come, let me show you development in the axis of programming.
